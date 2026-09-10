@@ -1,1 +1,0 @@
-# Analisis_Tratamiento_Imagenes_Satelitales
